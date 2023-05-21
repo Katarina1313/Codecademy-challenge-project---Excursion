@@ -1,0 +1,42 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Instrument Sans", sans-serif;
+  background-color: black;
+}
+
+h1,
+h2 {
+  color: white;
+  text-align: center;
+  margin: 40px 0;
+}
+h1 {
+  font-weight: normal;
+  font-size: 3.125rem;
+}
+h2 {
+  font-weight: 300;
+  font-size: 2.625rem;
+}
+
+p {
+  font-size: 1.3125rem;
+  color: gray;
+  text-align: center;
+  margin: 20px 0;
+}
+a {
+  color: aquamarine;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+.phone-video,
+.phone-icon,
+.camp-img {
+  display: block;
+  margin: 0 auto;
+}
